@@ -15,25 +15,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/?username=gnmoleiro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Gnmoleiro%27s+Stats&disable_animations=false&layout=compact" alt="GitHub Stats" width="49%" />
-</div>
-
----
-
-### ⭐ Featured Projects
-
-<div align="center">
-
-[![FakeCall](https://github-stats-extended.vercel.app/api/pin?username=Gnmoleiro&repo=gnmoleiro/FakeCall&description_lines_count=2&theme=tokyonight&hide_border=true)](https://github.com/gnmoleiro/FakeCall)
-[![LD1-FutStats](https://github-stats-extended.vercel.app/api/pin?username=Gnmoleiro&repo=Gnmoleiro/LD1-FutStats&description_lines_count=2&theme=tokyonight&hide_border=true)](https://github.com/Gnmoleiro/LD1-FutStats)
-[![DDM_LD_D2](https://github-stats-extended.vercel.app/api/pin?username=Gnmoleiro&repo=gnmoleiro/DDM_LD_D2&description_lines_count=2&theme=tokyonight&hide_border=true)](https://github.com/gnmoleiro/DDM_LD_D2)
-
-</div>
-
----
 
 ### 🛠️ Tech Stack & Tools
 
@@ -58,6 +39,14 @@
 **🎮 Game Dev & IDEs**  
 
 ![GameDev](https://skillicons.dev/icons?i=cs,lua,unity,vscode,visualstudio,pycharm,idea&theme=dark)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api/?username=gnmoleiro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Gnmoleiro%27s+Stats&disable_animations=false&layout=compact" alt="GitHub Stats" width="49%" />
+</div>
 
 ---
 
