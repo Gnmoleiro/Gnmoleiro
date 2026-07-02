@@ -6,15 +6,22 @@
 
 ---
 
+I'm a Junior Software Engineer with a strong focus on mobile development.
+
+My professional stack and current trainee internship revolve around React Native, Swift (SwiftUI), and Kotlin.
+
+In my free time, I'm expanding my skill set by learning Lua for game integrations.
+
+---
+
 ### 🧑‍💻 About Me
 
 - 🎓 **CTeSP Finalist in Mobile Device Development** at ISTEC, Lisbon.
-- 🚀 **Mobile Developer Trainee** at ISEC, working on the frontend of a React Native aplication.
+- 🚀 **Mobile Developer Trainee** at ISEC, working on the frontend of a React Native application.
 - 🌍 **Erasmus Experience:** Completed an international internship in Munich, Germany, working at Fortiss on a research project.
 - 🌱 Exploring: Advanced Mobile Architecture, Full-Stack Development, and Game Development using Lua.
 
 ---
-
 
 ### 🛠️ Tech Stack & Tools
 
