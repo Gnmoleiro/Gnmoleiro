@@ -19,7 +19,7 @@ In my free time, I'm expanding my skill set by learning Lua for game integration
 - 🎓 **CTeSP Finalist in Mobile Device Development** at ISTEC, Lisbon.
 - 🚀 **Mobile Developer Trainee** at ISEC, working on the frontend of a React Native application.
 - 🌍 **Erasmus Experience:** Completed an international internship in Munich, Germany, working at Fortiss on a research project.
-- 🌱 Exploring: Advanced Mobile Architecture, Full-Stack Development, and Game Development using Lua.
+- 🌱 **Exploring:** Advanced Mobile Architecture, Full-Stack Development, and Game Development using Lua.
 
 ---
 
